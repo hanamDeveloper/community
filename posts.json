@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "김영섭",
+      "title": "First Post",
+      "content": "Hello, world!Hello, world!Hello, world!Hello, world!Hello, world!Hello, world!"
+    },
+    {
+      "id": 2,
+      "author": "김영섭",
+      "title": "Second Post",
+      "content": "This is my second post."
+    }
+  ]
+}

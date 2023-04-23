@@ -1,6 +1,4 @@
-import Login from "@/components/Login/Login";
 import Head from "next/head";
-import styled from "styled-components";
 
 export default function Home() {
   return (
@@ -11,7 +9,6 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Login />
     </>
   );
 }
